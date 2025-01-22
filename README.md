@@ -94,7 +94,7 @@ You can view the full documentation of the kit at [docs.solanaagentkit.xyz](http
 ## 📦 Installation
 
 ```bash
-npm install solana-agent-kit
+pip install exomind
 ```
 
 ## Quick Start
