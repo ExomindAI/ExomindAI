@@ -530,6 +530,15 @@ The toolkit relies on several key Solana and Metaplex libraries:
 - @lightprotocol/compressed-token
 - @lightprotocol/stateless.js
 
+## Contributors
+
+Johannes Linowski
+
+![Alt Text](pr.jpg)
+
+Twitter: [Johannes Linowski](https://x.com/JoLinowski)
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
